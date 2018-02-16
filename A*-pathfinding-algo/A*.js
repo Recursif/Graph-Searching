@@ -22,7 +22,6 @@ function heuristic(a, b) {
   return d;
 }
 
-
 function Spot(i, j) {
   this.i = i;
   this.j = j;
